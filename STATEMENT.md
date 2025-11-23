@@ -60,11 +60,3 @@ The dataset used in this project is from Breast Cancer Wisconsin (Diagnostic) Da
 sklearn.datasets.load_breast_cancer
 
 ...aslo csv file of data has been externally loaded in the repo :)
-
-
-
-
-# Final Note 
-
-To conclude i would like to say that Machine Learning has inspired me for doing great things by learning about great things this project is one of my starters project in this domain and with it iam able to experience not only life of an Enginner but a Physican as well. Doing this project was a pleasure for me and finding out about Death rate due to Breast Cancer really painful , a lot of information i gathered which i could have never known about and loads of learning happened in between so if you are doing this Project i really hope you too will enjoy playing with the dataset ,rejoice your imagination of "Whatif this Could Happen" and unleash the creativity and potential that resides within you.
-
